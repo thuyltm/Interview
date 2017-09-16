@@ -1,0 +1,3 @@
+Note:
+1. I use in-memory database H2
+2. Run "sbt ~run"
